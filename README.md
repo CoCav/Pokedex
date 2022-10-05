@@ -1,4 +1,4 @@
-# Pokedex Pokemon
+# Pokedex
 
 This project is Pokedex realized with the API Pokémon, and in collaboration with blCav.
 
