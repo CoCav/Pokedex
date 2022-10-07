@@ -1,6 +1,6 @@
 # Pokedex
 
-This project is Pokedex realized with the API Pokémon, and in collaboration with blCav.
+This project is a Pokedex realized with the API Pokémon, and in collaboration with blCav.
 
 Project in French language.
 
